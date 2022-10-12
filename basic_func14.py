@@ -7,6 +7,6 @@ def main(a, b):
     value = floor(a), floor(b)
     return value
 
-a = 23.8736
-b = 26.999
+a = 34.8
+b = 56.43
 print(main(a, b))
