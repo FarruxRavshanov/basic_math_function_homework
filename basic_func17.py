@@ -4,7 +4,7 @@
 from math import pi
 
 def main(a):
-    d = a + pi
-    return d
+    a = pi
+    return a
 
-print(main(3.14567))
+print(main(pi))
