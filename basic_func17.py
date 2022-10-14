@@ -4,6 +4,7 @@
 from math import pi
 
 def main(a):
-    return a + pi
+    d = a + pi
+    return d
 
 print(main(3.14567))
