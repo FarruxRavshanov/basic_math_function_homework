@@ -3,6 +3,6 @@
 # Return the modulus of a and b.
 
 def main(a, b):
-    return abs(a), abs(b)
+    return a % b
 
-print(main(3.7, -6.4))
+print(main(8, 9))
